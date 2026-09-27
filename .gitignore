@@ -1,0 +1,18 @@
+# Compiled C files
+*.exe
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Temporary files
+*.tmp
+*.temp
